@@ -86,6 +86,7 @@ exe "hi Error"       .s:v.'fg=fg'    .s:v.'bg='.s:red
 exe "hi Identifier"  .s:v.'fg='.s:cya                .s:v.'=NONE'
 exe "hi PreProc"     .s:v.'fg='.s:blu                .s:v.'=NONE'
 exe "hi Special"     .s:v.'fg='.s:yel
+exe "hi SpecialKey"  .s:v.'fg='.s:gr1
 exe "hi Statement"   .s:v.'fg='.s:bro                .s:v.'=NONE'
 exe "hi Todo"        .s:v.'fg=bg'    .s:v.'bg='.s:bro
 exe "hi Type"        .s:v.'fg='.s:gre                .s:v.'=NONE'
